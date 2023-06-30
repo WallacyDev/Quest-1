@@ -1,0 +1,145 @@
+html {
+    font-size: 62.5%;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: url(../images/bg-desktop.svg) center center no-repeat var(--Soft-Magenta);
+    background-size: cover;
+    background-color: var(--Violet);
+}
+
+main {
+    display: grid;
+    grid-template-areas:
+        "logo ."
+        "ilustracao info"
+        ". redes";
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.logo {
+    grid-area: logo;
+}
+
+.ilustracao {
+    grid-area: ilustracao;
+}
+
+.info {
+    grid-area: info;
+}
+
+.redes {
+    grid-area: redes;
+}
+
+.logo {
+    margin: 50px;
+    font-size: 5rem;
+    font-weight: 600;
+}
+
+.ilustracao {
+    margin: 50px 20px 50px 50px;
+    width: 90%;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 50px;
+    margin: 50px;
+}
+
+.info h1 {
+    text-align: left;
+    color: #fff;
+    font-size: 5rem;
+    font-weight: 600;
+}
+
+.info p {
+    text-align: left;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.info .btn {
+    background-color: #fff;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 2rem;
+}
+
+.info .btn:hover {
+    background-color: var(--Soft-Magenta);
+    color: #fff;
+}
+
+.redes {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 50px;
+}
+
+.redes a {
+    border: 1px solid #fff;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.redes .fa-facebook-f {
+    width: 2.5rem;
+}
+
+.redes .fab {
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.redes a:hover {
+    border: 1px solid var(--Soft-Magenta);
+    border-radius: 50px;
+    color: var(--Soft-Magenta);
+}
+
+.redes .fab:hover {
+    color: var(--Soft-Magenta);
+}
+
+@media(max-width: 768px) {
+    body {
+        background-image: url(../images/bg-mobile.svg) no-repeat;
+        background-size: cover;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .logo {
+        width: 80%;
+    }
+
+    .info {
+        align-items: center;
+    }
+
+    .info h1 {
+        text-align: center;
+    }
+
+    .info p {
+        text-align: center;
+    }
+
+}

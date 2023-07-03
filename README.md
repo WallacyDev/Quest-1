@@ -1,5 +1,4 @@
-#Frontend Mentor - Página inicial do Huddle com solução de seção introdutória única.
-Esta é uma solução para o [Desafio da página inicial do Huddle com uma seção introdutória única no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) . Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+#Frontend Mentor - [Desafio da página inicial do Huddle com uma seção introdutória única no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 # Índice
 - [Índice](#índice)
@@ -15,28 +14,19 @@ Esta é uma solução para o [Desafio da página inicial do Huddle com uma seç�
       - [Agradecimentos](#agradecimentos)
 
 ## Visão geral
-
 ## O desafio
-
-Os usuários devem ser capazes de:
-
-![SITE-FROTENDMENTOR]https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
+Os usuários devem ser capazes de fazer essa página:
 ![Huddle - Desafio](./src/design/Huddle%20-%20desafio.jpg)
 
 ## Captura de tela
-
 ![Desktop](./src/design/huddle%20-%20desktop.jpg)
-![Tablet](./src/design/huddle%20-%20tablet.jpg) ![Mobile](./src/design/huddle%20-%20mobile.jpg)
+![Tablet](./src/design/huddle%20-%20tablet.jpg)![Mobile](./src/design/huddle%20-%20mobile.jpg)
 
 ## Links
-
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: [https://wallacydev.github.io/Quest-1/]
 
 ### Meu processo
-
 ### Construído com
-
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS3
 - Flexbox
@@ -44,7 +34,6 @@ Os usuários devem ser capazes de:
 - Fluxo de trabalho móvel primeiro
 
 ### O que eu aprendi
-
 Nesse Desafio consegui aprimorar minhas habilidades em HTML5 e CSS3, tive maiores dificuldades no CSS3, pois meu objetivo era deixar identico a proposta do frontendmentor.
 
 ```html
@@ -65,13 +54,10 @@ main {
 ```
 
 ### Desenvolvimento contínuo
-
 Depois desse desafio meu foco é aprimorar meus projetos e seguir rumo ao Javascript
 
 #### Autor
-
 ![SITE-FROTENDMENTOR]https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 
 #### Agradecimentos
-
 Meus sinceros agradecimentos a toda equipe do CURSO DE DESENVOLVIMENTO WEB DEVQUEST, que tem disponibilizado um material de aprendizado maravilhoso e esclarecedor, feito de forma muito precisa pra iniciantes em programação.

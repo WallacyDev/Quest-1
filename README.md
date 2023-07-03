@@ -26,8 +26,7 @@ Os usuários devem ser capazes de:
 ## Captura de tela
 
 ![Desktop](./src/design/huddle%20-%20desktop.jpg)
-![Tablet](./src/design/huddle%20-%20tablet.jpg)
-![Mobile](./src/design/huddle%20-%20mobile.jpg)
+![Tablet](./src/design/huddle%20-%20tablet.jpg) ![Mobile](./src/design/huddle%20-%20mobile.jpg)
 
 ## Links
 

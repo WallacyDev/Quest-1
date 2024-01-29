@@ -20,7 +20,8 @@ Os usuários devem ser capazes de fazer essa página:
 
 ## Captura de tela
 ![Desktop](./src/design/huddle%20-%20desktop.jpg)
-![Tablet](./src/design/huddle%20-%20tablet.jpg)![Mobile](./src/design/huddle%20-%20mobile.jpg)
+![Tablet](./src/design/huddle%20-%20tablet.jpg)
+![Mobile](./src/design/huddle%20-%20mobile.jpg)
 
 ## Links
 - URL da solução: [https://wallacydev.github.io/Quest-1/]
